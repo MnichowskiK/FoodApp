@@ -38,7 +38,7 @@ const AvailableMeals = () => {
   const fetchMeals = async () => {
     try {
       const response = await fetch(
-        "https://food-app-v2-8e692-default-rtdb.europe-west1.firebasedatabase.app/meals.json"
+        "https://food-app-v3-a08da-default-rtdb.europe-west1.firebasedatabase.app//meals.json"
       );
 
       if (!response.ok) {
