@@ -3,6 +3,8 @@
 <h2><strong>Technology</strong></h2>
 <ul>
     <li>React</li>
+    <li>Firebase</li>
+    <li>Rest API</li>
 </ul>
 <h2><strong>Live demo</strong></h2>
 <p><strong><a data-fr-linked="true" href="https://food-order-km.netlify.app/">https://food-order-km.netlify.app/</a></strong></p>
